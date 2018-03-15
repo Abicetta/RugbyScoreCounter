@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margpadlarge">40dp</dimen>
+    <dimen name="margpadmedium">20dp</dimen>
+    <dimen name="margpadsmall">14dp</dimen>
+    <dimen name="margpadxsmall">9dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <!-- Text -->
+    <dimen name="text_xl">52sp</dimen>
+    <dimen name="text_l">36sp</dimen>
+    <dimen name="text_m">18sp</dimen>
+    <!-- Rugbyman image -->
+    <dimen name="widthLand">85dp</dimen>
+    <dimen name="heightLand">125dp</dimen>
+    <dimen name="widthPort">100dp</dimen>
+    <dimen name="margTopLand">15dp</dimen>
+    <dimen name="margTopPort">45dp</dimen>
+
+    <!-- View line -->
+    <dimen name="margVLine">3dp</dimen>
+    <dimen name="widthVLine">1dp</dimen>
+    <dimen name="heightVLine">180dp</dimen>
+</resources>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorOfScore">#fff</color>
+    <color name="grayTint">#B0BEC5</color>
+    <!-- color of Home team -->
+    <color name="colorTeamHome">#9CCC65</color>
+    <!-- color of Visitors team -->
+    <color name="colotTeamVisitors">#C5E1A5</color>
+</resources>
