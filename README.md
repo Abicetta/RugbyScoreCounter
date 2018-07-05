@@ -15,8 +15,8 @@ There are two layouts one fore the portrait mode and another for the landscape m
 
 Portrait mode.
 
-![portrait mode](https://github.com/Abicetta/ItalianPastaQuiz/blob/master/app/src/main/res/drawable/RugbyScoreCounterPNoBar.png)
+![portrait mode](https://github.com/Abicetta/RugbyScoreCounter/blob/master/app/src/main/res/drawable/RugbyScoreCounterPNoBar.png)
 
 Landscape mode.
 
-![landscape mode](https://github.com/Abicetta/ItalianPastaQuiz/blob/master/app/src/main/res/drawable/RugbyScoreCounterLNoBar.png)
+![landscape mode](https://github.com/Abicetta/RugbyScoreCounter/blob/master/app/src/main/res/drawable/RugbyScoreCounterLNoBar.png)
